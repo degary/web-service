@@ -1,0 +1,9 @@
+2020/11/30 22:40:53 {"callers":["F:/go-learn/src/github.com/degary/web-service/main.go: 26 main.init.0"],"level":"info","message":"degary: go-programming-tour-book/web-service","time":1606747253822961800}
+2020/11/30 22:50:35 {"callers":["F:/go-learn/src/github.com/degary/web-service/main.go: 26 main.init.0"],"level":"info","message":"degary: go-programming-tour-book/web-service","time":1606747835843246500}
+2020/11/30 22:50:35 {"callers":["F:/go-learn/src/github.com/degary/web-service/main.go: 26 main.init.0"],"level":"info","message":"degary1: go-programming-tour-book/web-service1","time":1606747835843246500}
+2020/12/01 20:51:36 {"callers":["F:/go-learn/src/github.com/degary/web-service/main.go: 26 main.init.0"],"level":"info","message":"degary: go-programming-tour-book/web-service","time":1606827096271289100}
+2020/12/01 20:51:36 {"callers":["F:/go-learn/src/github.com/degary/web-service/main.go: 26 main.init.0"],"level":"info","message":"degary1: go-programming-tour-book/web-service1","time":1606827096366704700}
+2020/12/01 21:53:04 {"callers":["F:/go-learn/src/github.com/degary/web-service/main.go: 26 main.init.0"],"level":"info","message":"degary: go-programming-tour-book/web-service","time":1606830784875855900}
+2020/12/01 21:53:04 {"callers":["F:/go-learn/src/github.com/degary/web-service/main.go: 26 main.init.0"],"level":"info","message":"degary1: go-programming-tour-book/web-service1","time":1606830784876862200}
+2020/12/01 21:57:19 {"callers":["F:/go-learn/src/github.com/degary/web-service/main.go: 26 main.init.0"],"level":"info","message":"degary: go-programming-tour-book/web-service","time":1606831039010133700}
+2020/12/01 21:57:19 {"callers":["F:/go-learn/src/github.com/degary/web-service/main.go: 26 main.init.0"],"level":"info","message":"degary1: go-programming-tour-book/web-service1","time":1606831039010133700}
